@@ -1,8 +1,14 @@
-# React + Vite
+# Donation Campaign- 
+# Live link : [https://assignment8-sakil.netlify.app/]
+This is a Donation campaign website. Here we provide some key features for you-
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- User can find different types of donation category for donate money.
+- User can serach various category for find his targeted iteam.
+- By clicking user can show the details about every single donation package.
+- User can donate money by clicking button in the donation detials page.
+- User can find all donation details in the Donation page.
+- Users donation details will be shown in statistics page as a pai chart.
+- User can add many of packages in donation status.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
