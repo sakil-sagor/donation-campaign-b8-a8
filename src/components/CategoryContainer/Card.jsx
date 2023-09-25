@@ -16,6 +16,7 @@ const Card = ({ card }) => {
                     <h2 className={`${color.text} rounded  px-2 py-1 ml-4 `}>{title}</h2>
 
                 </div>
+
             </Link>
         </>
     );

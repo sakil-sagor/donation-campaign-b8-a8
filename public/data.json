@@ -10,7 +10,8 @@
             "color": {
                 "text": "hl_text",
                 "background": "hl_back",
-                "button": "hl_btn"
+                "button": "hl_btn",
+                "button_bg": "hl_btn_bg"
             },
             "category": "Health"
         },
@@ -24,7 +25,8 @@
             "color": {
                 "text": "edu_text",
                 "background": "edu_back",
-                "button": "edu_btn"
+                "button": "edu_btn",
+                "button_bg": "edu_btn_bg"
             },
             "category": "Education"
         },
@@ -38,7 +40,8 @@
             "color": {
                 "text": "cl_text",
                 "background": "cl_back",
-                "button": "cl_btn"
+                "button": "cl_btn",
+                "button_bg": "cl_btn_bg"
             },
             "category": "Clothing"
         },
@@ -52,7 +55,8 @@
             "color": {
                 "text": "foo_text",
                 "background": "foo_back",
-                "button": "foo_btn"
+                "button": "foo_btn",
+                "button_bg": "foo_btn_bg"
             },
             "category": "Food"
         }

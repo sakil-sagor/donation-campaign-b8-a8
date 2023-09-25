@@ -20,17 +20,25 @@ a.active {
     background-color: #0052FF33;
 }
 
+.hl_btn_bg {
+    background-color: #0052FF;
+}
+
 
 .edu_text {
     color: #FF444A;
 }
 
 .edu_back {
-    background-color: #3b82f680;
+    background-color: #FF444A26;
 }
 
 .edu_btn {
     background-color: #FF444A33;
+}
+
+.edu_btn_bg {
+    background-color: #FF444A;
 }
 
 .cl_text {
@@ -45,6 +53,10 @@ a.active {
     background-color: #79C23F33;
 }
 
+.cl_btn_bg {
+    background-color: #79C23F;
+}
+
 .foo_text {
     color: #F87147;
 }
@@ -55,4 +67,8 @@ a.active {
 
 .foo_btn {
     background-color: #F8714733;
+}
+
+.foo_btn_bg {
+    background-color: #F87147;
 }

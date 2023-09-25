@@ -15,7 +15,7 @@ const saveDataInLocalStore = id => {
     if (!exist) {
         storedData.push(id);
         localStorage.setItem("donation-data", JSON.stringify(storedData))
-        toast.success("Application successfully submited")
+        toast.success("Dontaion successfully added")
     } else {
         toast.error("Already exist")
     }
