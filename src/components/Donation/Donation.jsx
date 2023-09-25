@@ -18,8 +18,8 @@ const Donation = () => {
 
     }, [])
     return (
-        <div className="py-12">
-            <div className="container mx-auto px-2">
+        <div className="py-12 h-screen">
+            <div className="container mx-auto px-2 ">
                 <div className="grid md:grid-cols-2 gap-6 lg:gap-12">
                     {
                         cards.map(card => <SingleCard key={card.id} card={card}></SingleCard>)

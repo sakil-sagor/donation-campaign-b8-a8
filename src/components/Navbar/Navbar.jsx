@@ -13,7 +13,7 @@ const Navbar = () => {
 
     ];
     return (
-        <div className='   sticky top-0'>
+        <div className='   sticky top-0 border-b shadow-lg bg-white z-[9999]'>
             <div className='py-4 container mx-auto px-2'>
                 <div className='flex justify-between items-center'>
                     <div>

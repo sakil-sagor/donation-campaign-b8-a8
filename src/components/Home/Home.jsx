@@ -3,7 +3,7 @@ import Header from "../Header/Header";
 
 const Home = () => {
     return (
-        <div className="py-16">
+        <div className="">
             <Header></Header>
             <CategoryContainer></CategoryContainer>
 
