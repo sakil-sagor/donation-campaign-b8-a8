@@ -62,10 +62,25 @@
         },
         {
             "id": 5,
+            "title": "Make your cloths for all",
+            "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
+            "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
+            "price": 59.99,
+            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+            "color": {
+                "text": "cl_text",
+                "background": "cl_back",
+                "button": "cl_btn",
+                "button_bg": "cl_btn_bg"
+            },
+            "category": "Clothing"
+        },
+        {
+            "id": 6,
             "title": "Vitamin for everyone",
             "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
             "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
-            "price": 59.99,
+            "price": 105,
             "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
             "color": {
                 "text": "foo_text",
@@ -76,11 +91,71 @@
             "category": "Food"
         },
         {
-            "id": 6,
-            "title": "Make your cloths for all",
+            "id": 7,
+            "title": "Make your life with energy",
+            "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
+            "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
+            "price": 29.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "color": {
+                "text": "hl_text",
+                "background": "hl_back",
+                "button": "hl_btn",
+                "button_bg": "hl_btn_bg"
+            },
+            "category": "Health"
+        },
+        {
+            "id": 8,
+            "title": "Proper Education for You",
+            "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
+            "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
+            "price": 49.99,
+            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "color": {
+                "text": "edu_text",
+                "background": "edu_back",
+                "button": "edu_btn",
+                "button_bg": "edu_btn_bg"
+            },
+            "category": "Education"
+        },
+        {
+            "id": 9,
+            "title": "Healthy body for sound mind",
+            "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
+            "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
+            "price": 29.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "color": {
+                "text": "hl_text",
+                "background": "hl_back",
+                "button": "hl_btn",
+                "button_bg": "hl_btn_bg"
+            },
+            "category": "Health"
+        },
+        {
+            "id": 10,
+            "title": "Makes your own future ",
+            "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
+            "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
+            "price": 49.99,
+            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "color": {
+                "text": "edu_text",
+                "background": "edu_back",
+                "button": "edu_btn",
+                "button_bg": "edu_btn_bg"
+            },
+            "category": "Education"
+        },
+        {
+            "id": 11,
+            "title": "Cloths for all childreen",
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
             "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
-            "price": 39.99,
+            "price": 59.99,
             "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
             "color": {
                 "text": "cl_text",
@@ -89,6 +164,21 @@
                 "button_bg": "cl_btn_bg"
             },
             "category": "Clothing"
+        },
+        {
+            "id": 12,
+            "title": "Healthy food ",
+            "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
+            "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
+            "price": 105,
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "color": {
+                "text": "foo_text",
+                "background": "foo_back",
+                "button": "foo_btn",
+                "button_bg": "foo_btn_bg"
+            },
+            "category": "Food"
         }
     ]
 }

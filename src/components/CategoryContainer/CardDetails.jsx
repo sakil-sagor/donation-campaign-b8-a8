@@ -15,19 +15,27 @@ const CardDetails = () => {
 
     }
 
+    const divStyle = {
+        backgroundImage: `url(${card?.imgurl})`,
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+        backgroundPosition: 'center',
+        width: '100%',
+        height: '350px', // Set the height as per your requirements
+    };
 
 
     return (
-        <div>
+        <div className='my-16'>
             <div className='container mx-auto px-2'>
-                <div className='h-screen'>
-                    <div className='h-3/4'>
-                        <img className='w-full h-3/4' src={card?.imgurl} alt="" />
+                <div className=''>
+                    <div style={divStyle} className=" flex flex-col justify-end rounded">
+
+                        <div className='py-8 detials-bg  rounded'>
+                            <button onClick={handleAddDonation} className={`${card.color.button_bg} ml-4  text-white px-4 py-1 rounded`} >Donate {card?.price}</button>
+                        </div>
                     </div>
-                    <div>
-                        <button onClick={handleAddDonation} className={`${card.color.button_bg} text-white px-4 py-1 rounded`} >Donate {card?.price}</button>
-                    </div>
-                    <h2>{card?.title}</h2>
+                    <h2 className='font-bold text-2xl mt-6 mb-4'>{card?.title}</h2>
                     <p>{card?.description}</p>
                 </div>
             </div>

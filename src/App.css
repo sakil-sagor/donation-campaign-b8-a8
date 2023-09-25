@@ -8,6 +8,10 @@ a.active {
         url('/src/assets/Rectangle4281.png') center/cover no-repeat;
 }
 
+.detials-bg {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))
+}
+
 .hl_text {
     color: #0052FF;
 }
