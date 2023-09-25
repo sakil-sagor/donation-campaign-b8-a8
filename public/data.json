@@ -59,6 +59,36 @@
                 "button_bg": "foo_btn_bg"
             },
             "category": "Food"
+        },
+        {
+            "id": 5,
+            "title": "Vitamin for everyone",
+            "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
+            "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
+            "price": 59.99,
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "color": {
+                "text": "foo_text",
+                "background": "foo_back",
+                "button": "foo_btn",
+                "button_bg": "foo_btn_bg"
+            },
+            "category": "Food"
+        },
+        {
+            "id": 6,
+            "title": "Make your cloths for all",
+            "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
+            "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
+            "price": 39.99,
+            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+            "color": {
+                "text": "cl_text",
+                "background": "cl_back",
+                "button": "cl_btn",
+                "button_bg": "cl_btn_bg"
+            },
+            "category": "Clothing"
         }
     ]
 }

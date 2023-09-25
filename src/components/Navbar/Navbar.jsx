@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { FaBars, FaChevronLeft } from "react-icons/fa";
+import imgLogo from './../../assets/Logo.png';
 import LinkBar from "./LinkBar";
 
 
@@ -18,7 +19,8 @@ const Navbar = () => {
                 <div className='flex justify-between items-center'>
                     <div>
                         {/* <h1 className='block text-2xl font-bold ami'>Logo</h1> */}
-                        <img className="w-3/4" src="/src/assets/Logo.png" alt="logo" />
+                        <img className="w-3/4" src={imgLogo} alt="logo" />
+
 
                     </div>
                     <div>
