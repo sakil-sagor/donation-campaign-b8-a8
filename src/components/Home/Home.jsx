@@ -10,8 +10,13 @@ const Home = () => {
 
 
     const handleSearch = () => {
+
+        const filterData = cards.data.filter(data => data.category.toLowerCase().includes(search));
+        console.log(filterData)
+        setSearchResult(filterData)
     }
-    console.log(searchResult)
+
+
     return (
         <div className="">
             <Header setSearch={setSearch} handleSearch={handleSearch}></Header>
