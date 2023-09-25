@@ -18,7 +18,7 @@
             "id": 2,
             "title": "Good education",
             "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
-            "imgur2": "https: //i.ibb.co/PwjgnwX/r3.png",
+            "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
             "price": 49.99,
             "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "color": {
@@ -32,7 +32,7 @@
             "id": 3,
             "title": "Used Clothing Drive",
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
-            "imgur2": "https: //i.ibb.co/qFx44Rw/r2.png",
+            "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
             "price": 39.99,
             "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
             "color": {
@@ -46,7 +46,7 @@
             "id": 4,
             "title": "Better Food for Everyone",
             "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
-            "imgur2": "https: //i.ibb.co/bJVBFR8/r4.png",
+            "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
             "price": 59.99,
             "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
             "color": {
