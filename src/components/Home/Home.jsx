@@ -1,8 +1,12 @@
+import CategoryContainer from "../CategoryContainer/CategoryContainer";
+import Header from "../Header/Header";
 
 const Home = () => {
     return (
-        <div>
-            home
+        <div className="py-16">
+            <Header></Header>
+            <CategoryContainer></CategoryContainer>
+
         </div>
     );
 };

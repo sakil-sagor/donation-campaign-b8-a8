@@ -2,51 +2,59 @@
     "data": [
         {
             "id": 1,
-            "title": "Product 1",
-            "imgurl": "image1.jpg",
+            "title": "Clean water for children",
+            "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
+            "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
             "price": 29.99,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "color": {
-                "text": "White",
-                "background": "Light Gray",
-                "button": "Green"
-            }
+                "text": "hl_text",
+                "background": "hl_back",
+                "button": "hl_btn"
+            },
+            "category": "Health"
         },
         {
             "id": 2,
-            "title": "Product 2",
-            "imgurl": "image2.jpg",
+            "title": "Good education",
+            "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
+            "imgur2": "https: //i.ibb.co/PwjgnwX/r3.png",
             "price": 49.99,
             "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "color": {
-                "text": "Black",
-                "background": "Dark Gray",
-                "button": "Red"
-            }
+                "text": "edu_text",
+                "background": "edu_back",
+                "button": "edu_btn"
+            },
+            "category": "Education"
         },
         {
             "id": 3,
-            "title": "Product 3",
-            "imgurl": "image3.jpg",
+            "title": "Used Clothing Drive",
+            "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
+            "imgur2": "https: //i.ibb.co/qFx44Rw/r2.png",
             "price": 39.99,
             "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
             "color": {
-                "text": "White",
-                "background": "Light Blue",
-                "button": "Blue"
-            }
+                "text": "cl_text",
+                "background": "cl_back",
+                "button": "cl_btn"
+            },
+            "category": "Clothing"
         },
         {
             "id": 4,
-            "title": "Product 4",
-            "imgurl": "image4.jpg",
+            "title": "Better Food for Everyone",
+            "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
+            "imgur2": "https: //i.ibb.co/bJVBFR8/r4.png",
             "price": 59.99,
             "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
             "color": {
-                "text": "White",
-                "background": "Light Purple",
-                "button": "Purple"
-            }
+                "text": "foo_text",
+                "background": "foo_back",
+                "button": "foo_btn"
+            },
+            "category": "Food"
         }
     ]
 }

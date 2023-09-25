@@ -6,7 +6,53 @@ a.active {
 .banner-container {
     background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
         url('/src/assets/Rectangle4281.png') center/cover no-repeat;
-    ;
+}
+
+.hl_text {
+    color: #0052FF;
+}
+
+.hl_back {
+    background-color: #3b82f680;
+}
+
+.hl_btn {
+    background-color: #0052FF33;
+}
 
 
+.edu_text {
+    color: #FF444A;
+}
+
+.edu_back {
+    background-color: #3b82f680;
+}
+
+.edu_btn {
+    background-color: #FF444A33;
+}
+
+.cl_text {
+    color: #79C23F;
+}
+
+.cl_back {
+    background-color: #79C23F26;
+}
+
+.cl_btn {
+    background-color: #79C23F33;
+}
+
+.foo_text {
+    color: #F87147;
+}
+
+.foo_back {
+    background-color: #F8714726;
+}
+
+.foo_btn {
+    background-color: #F8714733;
 }

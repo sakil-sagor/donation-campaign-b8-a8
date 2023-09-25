@@ -1,5 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
+import CardDetails from "../components/CategoryContainer/CardDetails";
 import Donation from "../components/Donation/Donation";
 import ErroPage from "../components/ErrorPage/ErroPage";
 import Home from "../components/Home/Home";
@@ -13,7 +14,7 @@ const router = createBrowserRouter([
         children: [
             {
                 path: "/",
-                element: <Home></Home>
+                element: <Home></Home>,
             },
             {
                 path: "/donation",
@@ -23,7 +24,13 @@ const router = createBrowserRouter([
             {
                 path: "/statistics",
                 element: <Statistics></Statistics>
-            }
+            },
+            {
+                path: "/card/:id",
+                element: <CardDetails></CardDetails>,
+                loader: () => fetch('../data.josn')
+
+            },
         ]
     },
 ]);
