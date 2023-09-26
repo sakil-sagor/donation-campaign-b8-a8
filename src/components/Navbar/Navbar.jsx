@@ -46,7 +46,7 @@ const Navbar = () => {
                 </div>
                 <div className='md:hidden'>
 
-                    <ul className={` fixed text-center space-y-5 text-black duration-1000 pr-2 top-24 mt-1 h-screen  w-3/4 opacity-95 bg-green-900  ${!open ? " left-0" : "left-[-400px] "}`}>
+                    <ul className={` fixed text-center space-y-5 text-black duration-1000 pr-2 top-24 mt-1 h-screen  w-3/4 opacity-95 bg-green-900  ${!open ? " left-0" : "left-[-800px] "}`}>
                         {
                             routes.map(route => (
                                 <LinkBar open={open} setOpen={setOpen} key={route.id} route={route}></LinkBar>
