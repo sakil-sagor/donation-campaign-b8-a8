@@ -56,7 +56,7 @@ const Statistics = () => {
                         <div className='px-8 bg-[#0088FE] py-0 rounded'></div>
                     </div>
                     <div className='flex'>
-                        <span className='text-[#00C49F] font-bold mr-2'>Your Donatio</span>
+                        <span className='text-[#00C49F] font-bold mr-2'>Your Donation</span>
                         <div className='px-8 bg-[#00C49F] py-0 rounded'></div>
                     </div>
 

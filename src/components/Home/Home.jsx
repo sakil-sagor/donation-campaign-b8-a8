@@ -8,11 +8,8 @@ const Home = () => {
     const cards = useLoaderData();
     const [searchResult, setSearchResult] = useState(cards.data)
 
-
     const handleSearch = () => {
-
         const filterData = cards.data.filter(data => data.category.toLowerCase().includes(search));
-        console.log(filterData)
         setSearchResult(filterData)
     }
 
