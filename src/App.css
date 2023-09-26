@@ -8,6 +8,15 @@ a.active {
         url('/src/assets/Rectangle4281.png') center/cover no-repeat;
 }
 
+
+@media only screen and (max-width: 767px) {
+    .nav-bg {
+        background-color: #0051ff4d;
+        color: white
+    }
+
+}
+
 .detials-bg {
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))
 }

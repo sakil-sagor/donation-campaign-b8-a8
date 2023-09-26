@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { FaBars, FaChevronLeft } from "react-icons/fa";
+import { FaBars } from "react-icons/fa";
 import imgLogo from './../../assets/Logo.png';
 import LinkBar from "./LinkBar";
 
@@ -35,9 +35,9 @@ const Navbar = () => {
                         <div onClick={() => setOpen(!open)}>
                             {
                                 open ?
-                                    <FaBars className='md:hidden  text-2xl font-bold'></FaBars>
+                                    <FaBars className='md:hidden  text-3xl text-green-800 font-bold'></FaBars>
                                     :
-                                    <FaChevronLeft className='md:hidden  text-2xl font-bold'></FaChevronLeft>
+                                    <span className="text-3xl font-bold bg-red-500 hover:bg-red-600 hover:text-4xl text-white px-2 rounded ">X</span>
                             }
                         </div>
 
@@ -45,18 +45,15 @@ const Navbar = () => {
                     </div>
                 </div>
                 <div className='md:hidden'>
-                    {
-                        !open ?
-                            <ul className={` fixed text-center space-y-5 text-black duration-1000 transition-all top-16 mt-1 h-screen transf w-3/4 bg-pink-500  ${!open ? "left-0 " : "left-96"}`}>
-                                {
-                                    routes.map(route => (
-                                        <LinkBar key={route.id} route={route}></LinkBar>
-                                    ))
-                                }
-                            </ul>
-                            :
-                            ''
-                    }
+
+                    <ul className={` fixed text-center space-y-5 text-black duration-1000 pr-2 top-24 mt-1 h-screen  w-3/4 opacity-95 bg-green-900  ${!open ? " left-0" : "left-[-400px] "}`}>
+                        {
+                            routes.map(route => (
+                                <LinkBar open={open} setOpen={setOpen} key={route.id} route={route}></LinkBar>
+                            ))
+                        }
+                    </ul>
+
                 </div>
             </div>
         </div >

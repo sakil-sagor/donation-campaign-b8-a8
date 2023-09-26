@@ -34,7 +34,7 @@ const Statistics = () => {
         <div className='container mx-auto px-2 h-screen'>
             <div className="py-12 flex flex-col items-center">
 
-                <PieChart width={400} height={400}>
+                <PieChart width={375} height={375}>
                     <Pie
                         data={data}
                         cx="50%"
@@ -50,8 +50,8 @@ const Statistics = () => {
                         ))}
                     </Pie>
                 </PieChart>
-                <div className='flex space-x-6'>
-                    <div className='flex'>
+                <div className='md:flex  md:space-x-6'>
+                    <div className='flex mb-4'>
                         <span className='text-[#0088FE] font-bold mr-2'>Total Donation</span>
                         <div className='px-8 bg-[#0088FE] py-0 rounded'></div>
                     </div>

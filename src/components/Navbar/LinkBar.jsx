@@ -1,10 +1,10 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-const LinkBar = ({ route }) => {
+const LinkBar = ({ route, open, setOpen }) => {
     return (
-        <li className='ml-2 mt-6 md:mt-0 active'>
-            <NavLink to={route?.path}>{route?.name}</NavLink>
+        <li className='ml-2 mt-10 md:mt-0 active border md:border-0  nav-bg '>
+            <NavLink className="block py-2" onClick={() => setOpen(!open)} to={route?.path}>{route?.name}</NavLink>
         </li>
     );
 };
