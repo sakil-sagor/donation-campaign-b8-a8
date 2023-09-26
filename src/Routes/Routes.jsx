@@ -44,6 +44,14 @@ const router = createBrowserRouter([
                 }
 
             },
+            {
+                path: "donation/card/:id",
+                element: <CardDetails></CardDetails>,
+                loader: async () => {
+                    return fetch('/data.json')
+                }
+
+            },
         ]
     },
 ]);

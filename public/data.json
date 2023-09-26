@@ -6,7 +6,7 @@
             "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
             "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
             "price": 29.99,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Clean water for children is a fundamental human right and a critical component of ensuring a healthy and prosperous future for the youngest members of our global community. Access to clean water is not just a basic necessity; it is a lifeline that can transform the lives of children in countless ways.",
             "color": {
                 "text": "hl_text",
                 "background": "hl_back",
@@ -21,7 +21,7 @@
             "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
             "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
             "price": 49.99,
-            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "description": "Good education is the cornerstone of personal and societal progress, a powerful tool that empowers individuals to reach their fullest potential and contributes to the advancement of communities and nations. It goes beyond textbooks and classrooms, encompassing a holistic approach to learning that nurtures not just academic prowess but also critical life skills.",
             "color": {
                 "text": "edu_text",
                 "background": "edu_back",
@@ -36,7 +36,7 @@
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
             "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
             "price": 39.99,
-            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+            "description": "During a Used Clothing Drive, individuals generously donate gently-worn garments they no longer need. These donations often include clothing for all seasons, sizes, and age groups. The collected items are then sorted, cleaned, and organized by dedicated volunteers or charitable organizations.",
             "color": {
                 "text": "cl_text",
                 "background": "cl_back",
@@ -51,7 +51,7 @@
             "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
             "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
             "price": 59.99,
-            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Better Food for Everyone is a transformative initiative dedicated to revolutionizing our global food system. At its core, it champions the belief that every individual deserves access to safe, nutritious, and sustainable food that nourishes both body and planet. This visionary movement combines innovation, education, and advocacy to address pressing issues in our food ecosystem.",
             "color": {
                 "text": "foo_text",
                 "background": "foo_back",
@@ -66,7 +66,7 @@
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
             "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
             "price": 59.99,
-            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+            "description": "Make Your Clothes for All is your go-to destination for unleashing your inner fashion designer and crafting personalized attire that suits every style and occasion. Our platform empowers individuals of all skill levels to become creators of their own wardrobe, fostering a sense of individuality and self-expression.",
             "color": {
                 "text": "cl_text",
                 "background": "cl_back",
@@ -81,7 +81,7 @@
             "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
             "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
             "price": 105,
-            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "In the quest for optimal health and vitality, vitamins are the unsung heroes that cater to everyone's nutritional needs. These essential micronutrients play a pivotal role in maintaining our bodies' intricate balance and ensuring overall well-being. Whether you're a fitness enthusiast, a busy professional, a growing child, or a senior seeking vitality, there's a vitamin for you.",
             "color": {
                 "text": "foo_text",
                 "background": "foo_back",
@@ -96,7 +96,7 @@
             "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
             "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
             "price": 29.99,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Make Your Life with Energy is your passport to a vibrant and fulfilling existence. In a world where time never stops and demands are ever-increasing, this mantra encapsulates a holistic approach to living your best life. Harness the boundless energy within you through mindfulness, exercise, and balanced nutrition. ",
             "color": {
                 "text": "hl_text",
                 "background": "hl_back",
@@ -111,7 +111,7 @@
             "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
             "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
             "price": 49.99,
-            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "description": "Proper Education for You is a vital foundation upon which individuals build successful and fulfilling lives. This concept encapsulates the idea that a well-rounded education goes beyond textbooks and classrooms; it encompasses a holistic approach to learning that nurtures not only academic prowess but also personal growth and life skills.",
             "color": {
                 "text": "edu_text",
                 "background": "edu_back",
@@ -126,7 +126,7 @@
             "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
             "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
             "price": 29.99,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Healthy Body for You is your comprehensive guide to achieving and maintaining optimal physical well-being. In this insightful resource, we delve into the fundamental principles of a balanced and wholesome lifestyle that empowers you to lead your healthiest life.Discover the secrets to a nutritious diet that fuels your body with essential nutrients while savoring delicious flavors.",
             "color": {
                 "text": "hl_text",
                 "background": "hl_back",
@@ -141,7 +141,7 @@
             "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
             "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
             "price": 49.99,
-            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "description": "Make Your Own Future embodies the idea that with vision, effort, and a belief in oneself, individuals have the power to transcend obstacles, defy expectations, and create a future that reflects their aspirations and values. It's a rallying cry for personal agency, reminding us that our destinies are not written in stone but shaped by the choices we make every day.",
             "color": {
                 "text": "edu_text",
                 "background": "edu_back",
@@ -152,11 +152,11 @@
         },
         {
             "id": 11,
-            "title": "Cloths for all childreen",
+            "title": "Cloths for all children",
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
             "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
             "price": 59.99,
-            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+            "description": "In a world where inequality persists, we believe that every child deserves to feel confident, comfortable, and protected through the gift of clothing. Our organization tirelessly works to provide clothing solutions for children from diverse backgrounds, whether they come from underprivileged communities, have faced natural disasters, or are experiencing temporary hardships.",
             "color": {
                 "text": "cl_text",
                 "background": "cl_back",
@@ -171,7 +171,7 @@
             "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
             "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
             "price": 105,
-            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Healthy food is the cornerstone of a vibrant and well-balanced life. It encompasses a spectrum of delicious, nutrient-packed options that nourish both body and soul. At its core, healthy food is an investment in your well-being, promoting vitality and longevity. This culinary approach prioritizes fresh, whole ingredients like colorful fruits and vegetables, lean proteins, whole grains, and beneficial fats. ",
             "color": {
                 "text": "foo_text",
                 "background": "foo_back",
