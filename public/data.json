@@ -5,7 +5,7 @@
             "title": "Clean water for children",
             "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
             "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
-            "price": 29.99,
+            "price": 40,
             "description": "Clean water for children is a fundamental human right and a critical component of ensuring a healthy and prosperous future for the youngest members of our global community. Access to clean water is not just a basic necessity; it is a lifeline that can transform the lives of children in countless ways.",
             "color": {
                 "text": "hl_text",
@@ -20,7 +20,7 @@
             "title": "Good education",
             "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
             "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
-            "price": 49.99,
+            "price": 75,
             "description": "Good education is the cornerstone of personal and societal progress, a powerful tool that empowers individuals to reach their fullest potential and contributes to the advancement of communities and nations. It goes beyond textbooks and classrooms, encompassing a holistic approach to learning that nurtures not just academic prowess but also critical life skills.",
             "color": {
                 "text": "edu_text",
@@ -35,7 +35,7 @@
             "title": "Used Clothing Drive",
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
             "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
-            "price": 39.99,
+            "price": 65,
             "description": "During a Used Clothing Drive, individuals generously donate gently-worn garments they no longer need. These donations often include clothing for all seasons, sizes, and age groups. The collected items are then sorted, cleaned, and organized by dedicated volunteers or charitable organizations.",
             "color": {
                 "text": "cl_text",
@@ -50,7 +50,7 @@
             "title": "Better Food for Everyone",
             "imgurl": "https://i.ibb.co/s5tMLXb/Food.png",
             "imgur2": "https://i.ibb.co/bJVBFR8/r4.png",
-            "price": 59.99,
+            "price": 59,
             "description": "Better Food for Everyone is a transformative initiative dedicated to revolutionizing our global food system. At its core, it champions the belief that every individual deserves access to safe, nutritious, and sustainable food that nourishes both body and planet. This visionary movement combines innovation, education, and advocacy to address pressing issues in our food ecosystem.",
             "color": {
                 "text": "foo_text",
@@ -65,7 +65,7 @@
             "title": "Make your cloths for all",
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
             "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
-            "price": 59.99,
+            "price": 99,
             "description": "Make Your Clothes for All is your go-to destination for unleashing your inner fashion designer and crafting personalized attire that suits every style and occasion. Our platform empowers individuals of all skill levels to become creators of their own wardrobe, fostering a sense of individuality and self-expression.",
             "color": {
                 "text": "cl_text",
@@ -95,7 +95,7 @@
             "title": "Make your life with energy",
             "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
             "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
-            "price": 29.99,
+            "price": 55,
             "description": "Make Your Life with Energy is your passport to a vibrant and fulfilling existence. In a world where time never stops and demands are ever-increasing, this mantra encapsulates a holistic approach to living your best life. Harness the boundless energy within you through mindfulness, exercise, and balanced nutrition. ",
             "color": {
                 "text": "hl_text",
@@ -110,7 +110,7 @@
             "title": "Proper Education for You",
             "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
             "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
-            "price": 49.99,
+            "price": 85,
             "description": "Proper Education for You is a vital foundation upon which individuals build successful and fulfilling lives. This concept encapsulates the idea that a well-rounded education goes beyond textbooks and classrooms; it encompasses a holistic approach to learning that nurtures not only academic prowess but also personal growth and life skills.",
             "color": {
                 "text": "edu_text",
@@ -125,7 +125,7 @@
             "title": "Healthy body for you",
             "imgurl": "https://i.ibb.co/RYrFHdt/Health.png",
             "imgur2": "https://i.ibb.co/6b7CTgJ/r1.png",
-            "price": 29.99,
+            "price": 29,
             "description": "Healthy Body for You is your comprehensive guide to achieving and maintaining optimal physical well-being. In this insightful resource, we delve into the fundamental principles of a balanced and wholesome lifestyle that empowers you to lead your healthiest life.Discover the secrets to a nutritious diet that fuels your body with essential nutrients while savoring delicious flavors.",
             "color": {
                 "text": "hl_text",
@@ -140,7 +140,7 @@
             "title": "Makes your own future ",
             "imgurl": "https://i.ibb.co/RhmT4RJ/Education.png",
             "imgur2": "https://i.ibb.co/PwjgnwX/r3.png",
-            "price": 49.99,
+            "price": 50,
             "description": "Make Your Own Future embodies the idea that with vision, effort, and a belief in oneself, individuals have the power to transcend obstacles, defy expectations, and create a future that reflects their aspirations and values. It's a rallying cry for personal agency, reminding us that our destinies are not written in stone but shaped by the choices we make every day.",
             "color": {
                 "text": "edu_text",
@@ -155,7 +155,7 @@
             "title": "Cloths for all children",
             "imgurl": "https://i.ibb.co/mDxQHZP/Clothing.png",
             "imgur2": "https://i.ibb.co/qFx44Rw/r2.png",
-            "price": 59.99,
+            "price": 99,
             "description": "In a world where inequality persists, we believe that every child deserves to feel confident, comfortable, and protected through the gift of clothing. Our organization tirelessly works to provide clothing solutions for children from diverse backgrounds, whether they come from underprivileged communities, have faced natural disasters, or are experiencing temporary hardships.",
             "color": {
                 "text": "cl_text",

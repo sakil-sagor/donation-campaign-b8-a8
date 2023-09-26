@@ -21,7 +21,7 @@ const CardDetails = () => {
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
         width: '100%',
-        height: '350px', // Set the height as per your requirements
+        height: '350px',
     };
 
 
@@ -32,7 +32,7 @@ const CardDetails = () => {
                     <div style={divStyle} className=" flex flex-col justify-end rounded">
 
                         <div className='py-8 detials-bg  rounded'>
-                            <button onClick={handleAddDonation} className={`${card.color.button_bg} ml-4  text-white px-4 py-1 rounded`} >Donate {card?.price}</button>
+                            <button onClick={handleAddDonation} className={`${card.color.button_bg} ml-4  text-white px-4 py-1 rounded`} >Donate ${card?.price}</button>
                         </div>
                     </div>
                     <h2 className='font-bold text-2xl mt-6 mb-4'>{card?.title}</h2>
